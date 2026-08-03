@@ -1,1 +1,3 @@
 conteudo adicionado no navegador em aula
+
+conteudo adicionado no vscode no notebook
